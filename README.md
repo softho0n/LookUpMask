@@ -16,4 +16,4 @@
 
 ## Example
 
-![ex_screenshot](/app.png)
+<p align="center"><img width="40%" src="/app.png"/></p>
